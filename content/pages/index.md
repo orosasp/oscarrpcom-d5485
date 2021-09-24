@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy José Oscar Rosas Pérez.'
-    content: >
-      Desarrollador Java, trabajo con backend y estoy aprendiendo frontend y
-      otras cosas relacionadas a la tecnología.
+    content: |
+      Desarrollador Web Java Full Stack.
   - section_id: about
     type: section_content
     title: About

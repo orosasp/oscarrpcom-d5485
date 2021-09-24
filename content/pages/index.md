@@ -4,20 +4,21 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
+    title: 'Hola, soy José Oscar Rosas Pérez'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Desarrollador Web Java Full Stack.
   - section_id: about
     type: section_content
-    title: About
+    title: ¿Quién soy?
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Mexicano, originario de Teopantlán Puebla, Ing. en Tecnologías de la
+      Información, trabajo como Desarrollador Java en Willis Towers Watson,
+      actualmente estoy viviendo en Morelos. En mi tiempo libre me gusta
+      aprender nuevas tecnologías, lenguajes y herramientas para implementar
+      mejores practicas en cada proyecto y cuando no estoy haciendo cosas de
+      tecnología me gusta pasar el tiempo con la familia.
     actions:
-      - label: Contact Me
+      - label: Contactame
         url: /contact
         style: button
   - section_id: recent-posts

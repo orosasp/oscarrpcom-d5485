@@ -10,11 +10,13 @@ sections:
   - section_id: about
     type: section_content
     title: ¿Quién soy?
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Mexicano, originario de Teopantlán Puebla, Ing. en Tecnologías de la
+      Información, trabajo como Desarrollador Java en Willis Towers Watson,
+      actualmente estoy viviendo en Morelos. En mi tiempo libre me gusta
+      aprender nuevas tecnologías, lenguajes y herramientas para implementar
+      mejores practicas en cada proyecto y cuando no estoy haciendo cosas de
+      tecnología me gusta pasar el tiempo con la familia.
     actions:
       - label: Contact Me
         url: /contact

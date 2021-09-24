@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, soy José Oscar Rosas Pérez.'
+    title: 'Hola, soy José Oscar Rosas Pérez'
     content: |
       Desarrollador Web Java Full Stack.
   - section_id: about

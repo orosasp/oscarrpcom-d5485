@@ -18,7 +18,7 @@ sections:
       mejores practicas en cada proyecto y cuando no estoy haciendo cosas de
       tecnología me gusta pasar el tiempo con la familia.
     actions:
-      - label: ContactAMe
+      - label: Contactame
         url: /contact
         style: button
   - section_id: recent-posts

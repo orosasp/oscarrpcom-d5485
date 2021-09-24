@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy José Oscar Rosas Pérez.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Desarrollador Java, trabajo con backend y estoy aprendiendo frontend y
+      otras cosas relacionadas a la tecnología.
   - section_id: about
     type: section_content
     title: About

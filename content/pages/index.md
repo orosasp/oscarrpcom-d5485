@@ -6,13 +6,13 @@ sections:
       type: section_hero
       title: 'Hola, soy José Oscar Rosas Pérez'
       content: >-
-          Desarrollador Web Java Full Stack.
+          Desarrollador Web.
     - section_id: about
       type: section_content
       title: ¿Quién soy?
       content: >-
           Mexicano, originario de Teopantlán Puebla, Ing. en Tecnologías de la
-          Información, trabajo como Desarrollador Java en Willis Towers Watson,
+          Información, trabajo como Desarrollador Web Java,
           actualmente estoy viviendo en Morelos. En mi tiempo libre me gusta
           aprender nuevas tecnologías, lenguajes y herramientas para implementar
           mejores practicas en cada proyecto y cuando no estoy haciendo cosas de
@@ -31,7 +31,7 @@ sections:
             style: button
 seo:
     title: José Oscar Rosas Pérez
-    description: Desarrollador Web Java Full Stack
+    description: Desarrollador Web
     extra:
         - name: 'og:type'
           value: website

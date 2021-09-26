@@ -32,7 +32,7 @@ seo:
 layout: page
 ---
 
-**José Oscar Rosas Pérez** Es Mexicano, originario de Teopantlán, Puebla., Ing. en Tecnologías de la Información, trabajo como Desarrollador Java en Willis Towers Watson, actualmente estoy viviendo en Morelos. En mi tiempo libre me gusta aprender nuevas tecnologías, lenguajes y herramientas para implementar mejores practicas en cada proyecto y cuando no estoy haciendo cosas de tecnología me gusta pasar el tiempo con la familia.
+**José Oscar Rosas Pérez** Es Mexicano, originario de Teopantlán, Puebla., Ing. en Tecnologías de la Información, trabajo como Desarrollador Web Java, actualmente estoy viviendo en Morelos. En mi tiempo libre me gusta aprender nuevas tecnologías, lenguajes y herramientas para implementar mejores practicas en cada proyecto y cuando no estoy haciendo cosas de tecnología me gusta pasar el tiempo con la familia.
 
 He creado este blog para compartir el conocimiento que he aprendido y creado como desarrollador y si tienes algún proyecto y tengo la posibilidad, con gusto estaré dispuesto a colaborar contigo.
 

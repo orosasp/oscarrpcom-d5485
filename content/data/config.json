@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "title": "José Oscar Rosas",
-        "tagline": "Desarrollador Web Java Full Stack",
+        "tagline": "Desarrollador Web",
         "profile_img": "images/avatar.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -60,13 +60,6 @@
                 "url": "https://www.linkedin.com/in/orosasp",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
                 "new_window": true
             }
         ]

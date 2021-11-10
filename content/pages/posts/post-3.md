@@ -58,7 +58,7 @@ layout: post
 
 Jamstack es perfecto para la creación del blog.
 
-*   Para agilizar la creación del blog hice uso de theme de [www.jamstackthemes.dev](https://jamstackthemes.dev)[](https://jamstackthemes.dev/)
+*   Para agilizar la creación del blog hice uso de theme de [www.jamstackthemes.dev](https://jamstackthemes.dev)
 *   Para la personalización solo hay que tener conocimientos en NodeJs, NextJs, NPM, React, JavaScript, Git, CSS, HML, Markdown, entre otras tecnologías
 *   Para hospedar y desplegar el blog se hizo a través de netlify
 

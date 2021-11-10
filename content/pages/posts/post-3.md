@@ -6,8 +6,6 @@ excerpt: >-
   su blog, que por cierto será un blog muy interesante pues en él se van a
   publicar historias de migrantes que trabajan en New York.
 date: '2021-11-10'
-thumb_img_path: images/post3.jpg
-thumb_img_alt: Ejemplo de la creación del blog Crispín el migrante
 content_img_path: images/post3.jpg
 content_img_alt: Ejemplo de la creación del blog Crispín el migrante
 seo:

@@ -6,7 +6,7 @@ sections:
       type: section_hero
       title: 'Hola, soy José Oscar Rosas Pérez'
       content: >-
-          Desarrollador Web.
+          Desarrollador de Software.
     - section_id: about
       type: section_content
       title: ¿Quién soy?

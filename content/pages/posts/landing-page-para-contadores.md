@@ -49,7 +49,7 @@ El resultado pueden verlo en los siguientes enlaces:
 -   https://www.jtcontadores.com/
 -   https://delgadoalba.com/
 
-## Concluciones
+## Conclusiones
 
 Puedo concluir que Joomla es muy útil para no arrancar de cero en la construcción de sitios web, pues cuenta con plantillas y plugins y módulos que ayudaran a optimizar los tiempos de entrega además de que es software gratuito, su actualización es constante y esta soportado por una gran comunidad que siempre está dispuesta a ayudar.
 Si quieres conocer más sobre estas landing page hechas con Joomla con todo gusto puedes contactarme.

@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "José Oscar Rosas Pérez",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
         "title": "José Oscar Rosas",
-        "tagline": "Desarrollador Web Java Full Stack",
-        "profile_img": "images/avatar.png",
+        "tagline": "Desarrollador Web",
+        "profile_img": "images/avatar.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
@@ -19,11 +19,6 @@
             {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
@@ -62,22 +57,14 @@
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/orosasp/",
+                "url": "https://www.linkedin.com/in/orosasp",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
                 "new_window": true
             }
         ]
     },
     "footer": {
         "content": "&copy; José Oscar Rosas Pérez. All rights reserved."
-    },
-    "domain": "https://oscarrpcom-d5485.netlify.app"
+    }
 }

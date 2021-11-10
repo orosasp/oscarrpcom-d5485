@@ -12,7 +12,7 @@ sections:
       title: ¿Quién soy?
       content: >-
           Mexicano, originario de Teopantlán Puebla, Ing. en Tecnologías de la
-          Información, trabajo como Desarrollador Web Java,
+          Información, trabajo como Desarrollador de  Java,
           actualmente estoy viviendo en Morelos. En mi tiempo libre me gusta
           aprender nuevas tecnologías, lenguajes y herramientas para implementar
           mejores practicas en cada proyecto y cuando no estoy haciendo cosas de

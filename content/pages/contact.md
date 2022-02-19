@@ -3,7 +3,7 @@ title: Contacto
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    content: orosasp@gmail.com
+    content: orosasp@gmail.com 
     actions: []
     type: section_hero
 seo:

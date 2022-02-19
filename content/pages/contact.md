@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 hide_title: false
 sections: []
 seo:

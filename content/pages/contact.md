@@ -2,7 +2,7 @@
 title: Contacto
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: orosasp@gmail.com
     section_id: lorem-ipsum
     posts_number: 0
     actions: []

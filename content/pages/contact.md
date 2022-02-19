@@ -7,8 +7,7 @@ sections:
     posts_number: 0
     actions: []
     type: section_posts
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: |
       orosasp@gmail.com
     actions: []
